@@ -1,4 +1,5 @@
 print("dd")
 var = "dva"
 
-varDalsi = 22
+varDalsi = 20
+
